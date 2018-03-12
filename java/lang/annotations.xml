@@ -1,0 +1,5 @@
+<root>
+    <item name='java.lang.Throwable java.lang.String getMessage()'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
